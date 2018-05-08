@@ -1,0 +1,62 @@
+﻿.center { 
+    text-align:center;
+}
+.text-box{
+    width:300px;
+
+}
+
+.center-page
+{
+    width:300px;
+    height:300px;
+    position:absolute;
+
+    top:-40px;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+div.div_right_details_ROW .detail_label                 /* Label for a TextBox */
+{
+    width:120px;
+    float:left;
+    text-align:right;
+    padding-right:20px;
+}
+div.div_right_details_ROW .detail_textbox               /* Textboxes (normal) */
+{
+    float:left;
+    width:250px;
+}
+
+.listbox_design {
+    height:250px;
+    width:300px;
+}
+
+.space-vert
+{
+    margin-top:20px;
+}
+
+.footer-pos
+{
+    width:auto;
+    height:auto;
+    position:absolute;
+
+    top:600px;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+}
+
+body{
+    padding-top:50px;
+}
+
